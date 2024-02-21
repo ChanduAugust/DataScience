@@ -5,3 +5,4 @@ https://public.tableau.com/app/profile/chandra.sekhar.b2707/viz/TableauAssignmen
 https://public.tableau.com/app/profile/chandra.sekhar.b2707/viz/TableauAssignment_1_17062536047860/Sheet2
 https://public.tableau.com/app/profile/chandra.sekhar.b2707/viz/HousePriceInflationbyRegion_17078007069030/Sheet2?publish=yes
 https://public.tableau.com/app/profile/chandra.sekhar.b2707/viz/SumSalesVolumeYearwiseAnalysis/Story3?publish=yes
+https://public.tableau.com/app/profile/chandra.sekhar.b2707/viz/SumofPopulationofUSStates/Sheet1?publish=yes
