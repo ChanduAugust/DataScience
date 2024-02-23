@@ -7,3 +7,4 @@ https://public.tableau.com/app/profile/chandra.sekhar.b2707/viz/HousePriceInflat
 https://public.tableau.com/app/profile/chandra.sekhar.b2707/viz/SumSalesVolumeYearwiseAnalysis/Story3?publish=yes
 https://public.tableau.com/app/profile/chandra.sekhar.b2707/viz/SumofPopulationofUSStates/Sheet1?publish=yes
 https://public.tableau.com/app/profile/chandra.sekhar.b2707/viz/SumofPopulationofUSStates_By_Group/Sheet1?publish=yes
+https://public.tableau.com/app/profile/chandra.sekhar.b2707/viz/SalesVolumeAnalysisusingdifferentGraphs/Dashboard1?publish=yes
